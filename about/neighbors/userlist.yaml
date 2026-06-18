@@ -15,6 +15,11 @@
   xUrl: "https://x.com/kayamamoto_"
   linkedInUrl: "https://www.linkedin.com/in/katsuaki-yamamoto-2b3692329"
 
+- name: Madoka Fujita
+  photo: ../../images/neighbors/mfujita2023.png
+  xUrl: "https://x.com/mfujita2023"
+  linkedInUrl: "https://www.linkedin.com/in/madoka-fujita-31b9912b9/"
+
 #  「Linkdin」のアカウントのみあるケース
 # - name: データ ハナコ
 #   affiliation: Data Engineering Inc.
